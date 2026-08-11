@@ -86,7 +86,7 @@ export const projects = [
     full_description: 'Built comprehensive API & UI automation suites using Rest Assured, Java, and Python to validate web scraping modules, price alert triggers, and data accuracy. Applied AI-assisted test generation techniques to improve coverage efficiency and integrated CI/CD for continuous validation.',
     technologies: ['Rest Assured', 'Java', 'Python', 'API Automation', 'GitHub Actions', 'AI Test Gen'],
     image_url: '/assets/projects/qa_automation_suite.png',
-    demo_url: 'https://ahsan-qa.vercel.app',
+    demo_url: 'https://ahsan-fullstack-qa.vercel.app',
     github_url: 'https://github.com/ahsan7854',
     metrics: '40% Regression Time Reduction'
   },
@@ -98,7 +98,7 @@ export const projects = [
     full_description: 'Developed scalable frontend interfaces and Node.js backend RESTful endpoints with Postman validation. Applied engineering best practices including unit testing, code reviews, SQL query optimization, and CI/CD delivery pipelines.',
     technologies: ['React.js', 'Next.js', 'Node.js', 'Express', 'MySQL', 'Postman'],
     image_url: '/assets/projects/fullstack_ecommerce.png',
-    demo_url: 'https://ahsan-qa.vercel.app',
+    demo_url: 'https://ahsan-fullstack-qa.vercel.app',
     github_url: 'https://github.com/ahsan7854',
     metrics: '100% Verified REST Endpoints'
   },
@@ -110,7 +110,7 @@ export const projects = [
     full_description: 'Engineered Selenium WebDriver + Page Object Model (POM) test framework with Java. Conducted cross-browser testing on BrowserStack across Chrome, Firefox, Safari, and Edge. Executed payment gateway API validation and JMeter performance load benchmarks.',
     technologies: ['Selenium WebDriver', 'Java', 'POM', 'BrowserStack', 'Postman', 'JMeter'],
     image_url: '/assets/projects/ai_rag_assistant.png',
-    demo_url: 'https://ahsan-qa.vercel.app',
+    demo_url: 'https://ahsan-fullstack-qa.vercel.app',
     github_url: 'https://github.com/ahsan7854',
     metrics: '85%+ Test Coverage'
   }
