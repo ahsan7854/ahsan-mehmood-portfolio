@@ -20,7 +20,7 @@ Results-driven **Senior QA Automation Engineer** with 3+ years of experience spe
 - 🎓 **Education**: BS in Software Engineering — University of Central Punjab, Lahore (CGPA: 3.55)
 - 📍 **Location**: Lahore, Pakistan
 - 💼 **Current Role**: Senior QA Automation Engineer at TEXASIS
-- 🌐 **Portfolio**: [Live Local Server](http://localhost:5173/)
+- 🌐 **Portfolio**: [https://ahsan-qa.vercel.app](https://ahsan-qa.vercel.app)
 - 📧 **Email**: [ahsanmehmood7854@gmail.com](mailto:ahsanmehmood7854@gmail.com) | 📞 **Phone**: (+92) 308-1075251
 - 🔗 **LinkedIn**: [linkedin.com/in/mian-ahsan-mehmood](https://www.linkedin.com/in/mian-ahsan-mehmood/)
 - 💻 **GitHub**: [github.com/ahsan7854](https://github.com/ahsan7854)
