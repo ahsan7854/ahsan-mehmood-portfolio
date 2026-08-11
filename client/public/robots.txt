@@ -1,0 +1,6 @@
+# Allow all search engines to crawl and index the portfolio
+User-agent: *
+Allow: /
+
+# Sitemap URL
+Sitemap: https://ahsan-fullstack-qa.vercel.app/sitemap.xml
