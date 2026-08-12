@@ -86,7 +86,7 @@ export const projects = [
     full_description: 'Built comprehensive API & UI automation suites using Rest Assured, Java, and Python to validate web scraping modules, price alert triggers, and data accuracy. Applied AI-assisted test generation techniques to improve coverage efficiency and integrated CI/CD for continuous validation.',
     technologies: ['Rest Assured', 'Java', 'Python', 'API Automation', 'GitHub Actions', 'AI Test Gen'],
     image_url: '/assets/projects/qa_automation_suite.png',
-    demo_url: 'https://ahsan-fullstack-qa.vercel.app',
+    demo_url: 'http://localhost:5174/',
     github_url: 'https://github.com/ahsan7854',
     metrics: '40% Regression Time Reduction'
   },
